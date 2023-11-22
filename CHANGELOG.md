@@ -10,6 +10,12 @@ before starting to add changes.
 
 ## [Unreleased]
 
+## 1.2.0
+
+- Update guzzle dependency
+
+## 1.1.0
+
 - Basic github actions added
 - Update php requirements
 
