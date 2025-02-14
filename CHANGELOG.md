@@ -10,6 +10,8 @@ before starting to add changes.
 
 ## [Unreleased]
 
+- Updated GitHub workflow images
+
 ## 1.2.0
 
 - Update guzzle dependency
